@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YB96
+- 👋 Hi, I’m Yash Bhairao
 - 👀 I’m interested in Python projects.
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on Data analysis projects
+- 🌱 I’m currently learning Machine learning.
+- 💞️ I’m looking to collaborate on Data analysis projects.
 - 📫 How to reach me bhairaoyash@gmail.com
 
 <!---
