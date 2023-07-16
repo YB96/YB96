@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Data Analyst Logo" width="300px">
+  <img src="Yash Bhairao.png" alt="Data Analyst Logo" width="300px">
 </div>
 
 # Data Analyst Portfolio
@@ -10,7 +10,7 @@ Welcome to my data analyst portfolio! This repository showcases my projects and 
 
 Explore my data analysis projects:
 
-- **Project 1:** [Project Title](link-to-project) - Analyzing [brief description of the project].
+- **Project 1:** [Project Title](https://github.com/YB96/data-analysis) - Analyzing [brief description of the project].
 - **Project 2:** [Project Title](link-to-project) - Discovering insights from [brief description of the project].
 - **Project 3:** [Project Title](link-to-project) - Predicting [brief description of the project].
 
