@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Yash Bhairao.png" alt="Data Analyst Logo" width="300px">
+  <img src="Yash Bhairao.png" alt="Data Analyst Logo" width="400px">
 </div>
 
 # Data Analyst Portfolio
@@ -10,9 +10,9 @@ Welcome to my data analyst portfolio! This repository showcases my projects and 
 
 Explore my data analysis projects:
 
-- **Project 1:** [Project Title](https://github.com/YB96/data-analysis) - Analyzing [brief description of the project].
-- **Project 2:** [Project Title](link-to-project) - Discovering insights from [brief description of the project].
-- **Project 3:** [Project Title](link-to-project) - Predicting [brief description of the project].
+- **Project 1:** [Exploratory Data Analysis on Brazilian E-Commerce Olist](https://github.com/YB96/data-analysis) - Analyzing the data and getting meaningful insights.
+- **Project 2:** [Exploratory Data Analysis and Visualization of Breast Cancer Data](https://jovian.ai/yashchamp96/course-project-on-breast-cancer) - Data to recognize properties of cancerous samples.
+- **Project 3:** [Web scraping project on automation of Flipkart](https://jovian.ai/yashchamp96/project-web-scraping) - Scrapped and automated Iphones present at Flipkart.
 
 ## Tools
 
@@ -20,7 +20,7 @@ These are the tools I use for data analysis:
 
 - **Languages:** Python, R, SQL
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power Bi
 
 Feel free to explore the code and adapt it for your own data analysis endeavors.
 
@@ -29,17 +29,13 @@ Feel free to explore the code and adapt it for your own data analysis endeavors.
 Witness the power of data visualization:
 
 <div align="center">
-  <img src="visualization1.png" alt="Visualization 1" width="600px">
-  <img src="visualization2.png" alt="Visualization 2" width="600px">
+  <img src="olist Pie chart.png" alt="Visualization 1" width="400px" height='400px'>
+  <img src="nyc snapshot.png" alt="Visualization 2" width="400px" height='400px'>
 </div>
 
 ## Documentation
 
 If you seek more details about each project, refer to the documentation section. It contains comprehensive explanations, methodologies, and insights gained from the analyses.
-
-## Contributing
-
-I welcome contributions from fellow data enthusiasts. Check the [contributing guidelines](CONTRIBUTING.md) for instructions on how to get involved.
 
 ## License
 
@@ -47,4 +43,4 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use a
 
 ⭐ Don't forget to star the repository if you find my work helpful or interesting!
 
-> "Data holds the key to unlocking knowledge. Let's explore its secrets together." - [Your Name]
+> "Data holds the key to unlocking knowledge. Let's explore its secrets together." - [Yash Prakash Bhairao]
