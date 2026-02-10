@@ -2,6 +2,8 @@
   <img src="Yash Bhairao.png" alt="Data Analyst Logo" width="400px">
 </div>
 
+[![YB's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB96)](https://github.com/anuraghazra/github-readme-stats)
+
 # Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! This repository showcases my projects and analyses, where I transform raw data into meaningful insights. Join me on this journey as we unravel the mysteries hidden within the numbers.
