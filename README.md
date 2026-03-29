@@ -1,56 +1,62 @@
 <div align="center">
 
-# 👨‍💻 Yash Prakash Bhairao
+# 👋 Hi, I'm Yash Prakash Bhairao
 
-### Data Engineer · Pipeline Architect · Analytics Enthusiast
+### Data Engineer · Pipeline Architect · Analytics Builder
+
+*Building the infrastructure that makes data useful.*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔧 Currently working as a **Data Engineer** — building and maintaining robust data pipelines
-- 📊 Passionate about turning raw data into meaningful stories
-- 🤖 Exploring **Machine Learning** and predictive analytics
-- 🌐 Love automating repetitive tasks with Python
-- 💬 Ask me about data engineering, EDA, or web scraping
+- 🔧 Working as a **Data Engineer** — designing and maintaining scalable data pipelines
+- 🏗️ Building end-to-end data workflows using **Airflow**, **dbt**, **AWS**, and **Docker**
+- 📊 Strong background in EDA, data analysis, and visualization
+- 🤖 Exploring **ML pipelines** and how models plug into production data stacks
+- 💬 Ask me about pipeline design, data modelling, or EDA
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 [Exploratory Data Analysis — Brazilian E-Commerce (Olist)](https://github.com/YB96/data-analysis)
-> Analyzed Olist's e-commerce dataset to uncover insights on sales trends, delivery performance, and customer satisfaction.
+### 🛒 [E-Commerce Data Pipeline — Olist](https://github.com/YB96/data-analysis)
+> End-to-end pipeline ingesting Brazilian e-commerce data from the Olist dataset. Raw data lands in **AWS S3**, transformations are handled via **dbt**, orchestrated with **Apache Airflow**, and the whole stack runs in **Docker**.
 
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
-### 🧬 [Breast Cancer Data — EDA & Visualization](https://jovian.ai/yashchamp96/course-project-on-breast-cancer)
-> Applied statistical analysis and ML classification to distinguish malignant from benign tumor samples using clinical features.
+### 🧬 [Breast Cancer ML Pipeline](https://jovian.ai/yashchamp96/course-project-on-breast-cancer)
+> Structured ML pipeline for classifying breast cancer samples. Features data validation, feature engineering, and model training — containerised with **Docker** and ready for deployment on **AWS EC2**.
 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 🛍️ [Flipkart Web Scraper — iPhone Automation](https://jovian.ai/yashchamp96/project-web-scraping)
-> Built an automated scraper to extract and monitor iPhone listings on Flipkart, aggregating pricing data in real time.
+### 🛍️ [Flipkart Scraper + Ingestion Pipeline](https://jovian.ai/yashchamp96/project-web-scraping)
+> Automated scraper for iPhone listings on Flipkart. Data is extracted, cleaned, and loaded into an **AWS RDS** table via a scheduled **Airflow DAG**, with results visualised in Power BI.
 
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/-AWS_RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59666C?style=flat-square)
-![Requests](https://img.shields.io/badge/-Requests-2CA5E0?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -58,30 +64,39 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python · R · SQL |
+| **Languages** | Python · SQL · R · JS|
+| **Orchestration** | Apache Airflow |
+| **Transformation** | dbt (data build tool) · Spark |
+| **Cloud** | AWS (S3 · EC2 · RDS · Glue · Redshift) |
+| **Containers** | Docker · Docker Compose |
 | **Libraries** | Pandas · NumPy · Scikit-learn · TensorFlow |
 | **Visualization** | Matplotlib · Seaborn · Plotly · Tableau · Power BI |
 
 ---
 
-## 📸 Visualizations
+## 📐 Data Engineering Architecture
 
-<div align="center">
-  <img src="olist Pie chart.png" alt="Olist Pie Chart" width="400px" height="400px">
-  <img src="nyc snapshot.png" alt="NYC Snapshot" width="400px" height="400px">
-</div>
+```
+Raw Sources  →  Ingestion   (Python Scrapers / Postgres / S3 / Azure Blob Storage)
+             →  Storage     (AWS S3 / RDS / Snowflake ❄)
+             →  Transform   (dbt models / Pysaprk / Pandas)
+             →  Orchestrate (Airflow DAGs)
+             →  Serve       (Redshift / Power BI / Tableau)
+
+Everything containerised with Docker 🐳
+```
 
 ---
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and adapt the code for your own projects.
+Licensed under the [MIT License](LICENSE). Free to use and adapt.
 
 ---
 
 <div align="center">
 
-⭐ **Star this repo if you find it helpful!**
+⭐ **Star this repo if you find it useful!**
 
 *"Data holds the key to unlocking knowledge. Let's explore its secrets together."*
 — Yash Prakash Bhairao
