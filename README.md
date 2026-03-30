@@ -81,10 +81,10 @@
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Data Pipeline
-**[Olist EDA & Pipeline](https://github.com/YB96/data-analysis)**
+### 🛒 DBT Data Pipeline
+**[Docker ETL Workflow](https://github.com/YB96/DBT-Docker)**
 
-End-to-end pipeline on Brazilian e-commerce data. Raw data ingested into **AWS S3**, transformed via **dbt**, orchestrated with **Airflow DAGs**, containerised in **Docker**.
+End-to-end pipeline using DBT. Raw data extracted from **Postgres**, transformed via **dbt**, orchestrated with **Airflow DAGs**, containerised in **Docker**.
 
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
